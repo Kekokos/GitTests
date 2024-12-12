@@ -1,0 +1,16 @@
+﻿name: "Данилов Илья Александрович"
+contact:
+  email: "llykha1@mail.ru"
+  phone: "+79999999999"
+  github: "https://github.com/Kekokos"
+education:
+  - institution: "Томский государственный университет систем управления и радиоэлектроники"
+    degree: "Разработка ПО"
+    year: 2024
+experience:
+  - company: "Яндекс"
+    role: "Backend-разработчик"
+    period: "01.2020 - н.в"
+    responsibilities:
+      - "Написание алгоритмов"
+      - "Пить кофе с печеньками"
