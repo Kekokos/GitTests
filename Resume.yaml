@@ -7,6 +7,11 @@ education:
   - institution: "Томский государственный университет систем управления и радиоэлектроники"
     degree: "Разработка ПО"
     year: 2024
+skills:
+  - name: .NET
+    level: medium
+  - name: ASP.NET
+    level: medium
 experience:
   - company: "Яндекс"
     role: "Backend-разработчик"
